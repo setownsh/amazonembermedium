@@ -1,0 +1,11 @@
+@font-face{
+font-family:'Amazon Ember Medium';
+src:url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Medium.eot'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Medium.eot?#iefix') format('embedded-opentype'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Medium.woff2') format('woff2'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Medium.woff') format('woff'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Medium.ttf') format('truetype'),
+url('https://pages.payments.amazon.com/rs/846-RQB-314/images/AmazonEmber-Medium.svg#AmazonEmber-Medium') format('svg');
+font-weight:500;
+font-style:normal;
+}
